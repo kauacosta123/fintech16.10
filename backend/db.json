@@ -1,0 +1,13 @@
+{
+  "clientes": [
+    {
+      "cpf": "221321321",
+      "nome": "eaemano",
+      "sobrenome": "eaemano",
+      "dataNascimento": "1998-02-01",
+      "email": "dawkwdako@gmail.com",
+      "senha": "1234",
+      "id": 1
+    }
+  ]
+}
