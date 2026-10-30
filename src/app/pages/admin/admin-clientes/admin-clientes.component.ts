@@ -23,9 +23,10 @@ export class AdminClientesComponent implements OnInit {
      });
   }
 
-  editar(id: string) {
+editar(id: string) {
  console.log('Editar cliente:', id);
  }
+ 
  excluir(id: string) {
  this.service.excluir(id).subscribe({
   next: ()=> { this.listaClientes = this.listaClientes.filter(cliente =>cliente.id !== id)   }

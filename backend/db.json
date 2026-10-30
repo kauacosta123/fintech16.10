@@ -8,6 +8,15 @@
       "email": "dawkwdako@gmail.com",
       "senha": "1234",
       "id": 1
+    },
+    {
+      "cpf": "37282998917",
+      "nome": "Ana",
+      "sobrenome": "Jorge",
+      "dataNascimento": "92007-02-01",
+      "email": "ana@email.com",
+      "senha": "123",
+      "id": 2
     }
   ]
 }
